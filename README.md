@@ -8,6 +8,10 @@ Dê um fork neste repositório, e após concluir as atividades faça um pull req
 ## Questão 1
 ### Dado um valor inteiro, verifique se os números estão em ordenação sequencial
 
+#### Exemplo
+- 1234567 e 87654321 estão ordenados.
+- 1573154 não está ordenado.
+
 ## Questão 2
 ### Crie uma função que receba um array de inteiros como parâmetro e verifique se neste array existem números duplicados, caso exista, retorne um novo array com os valores que se repetem 
 
