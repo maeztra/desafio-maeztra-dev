@@ -1,7 +1,9 @@
 # Desafio Maeztra
 Testes de avaliação inicial em lógica de programação <br>
-O código deve ser feitos em Javascript/JQuery<br>
+Os códigos devem ser feitos em Javascript/JQuery<br>
 Se possível, documente o código com comentários
+
+Dê um fork neste repositório, e após concluir as atividades faça um pull request
 
 ## Questão 1
 ### Dado um valor inteiro, verifique se os números estão em ordenação sequencial
