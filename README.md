@@ -1,6 +1,6 @@
 # Desafio Maeztra
-Testes de avaliação inicial em lógica de programação \n
-O código deve ser feitos em Javascript/JQuery
+Testes de avaliação inicial em lógica de programação <br>
+O código deve ser feitos em Javascript/JQuery<br>
 Se possível, documente o código com comentários
 
 ## Questão 1
