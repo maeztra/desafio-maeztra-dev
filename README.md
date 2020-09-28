@@ -6,7 +6,7 @@ Se possível, documente o código com comentários
 Dê um fork neste repositório, e após concluir as atividades faça um pull request
 
 ## Questão 1
-### Dado um valor inteiro, verifique se os números estão em ordenação sequencial
+### Dado um valor inteiro, verifique se os dígitos estão em ordenação sequencial
 
 #### Exemplo
 - 1234567 e 87654321 estão ordenados.
@@ -20,8 +20,7 @@ Dê um fork neste repositório, e após concluir as atividades faça um pull req
 - Output [4,5]
 
 ##Questão 3
-### Considere um conjuto de pessoas aposentadas, onde cada pessoa começou a trabalhar em ano X e aposentou em ano Y. Crie uma função que receba uma matriz na seguinte estrutura:
-### [[x1,y1],[x2,y2],...[xn,yn]] e calcule em qual ano houve mais gente trabalhando
+### Considere um conjuto de pessoas aposentadas, onde cada pessoa começou a trabalhar em ano X e aposentou em ano Y. Crie uma função que receba uma matriz na seguinte estrutura: <br> [[x1,y1],[x2,y2],...[xn,yn]] <br>e calcule em qual ano houve mais gente trabalhando
 
 Considere:
 - Os valores de X como o ano que os indívíduos começaram a trabalhar (x>0, x<y )
