@@ -20,7 +20,15 @@ Dê um fork neste repositório, e após concluir as atividades faça um pull req
 - Output [4,5]
 
 ## Questão 3
-### Crie uma função que recebe uma string com qualquer sequência dos seguintes caracteres: <br> '[', '{', '(', ')', '}', ']' <br> e retorne se a sequência é uma sequêcia válida ou não
+### Crie uma função que recebe uma string com qualquer sequência dos seguintes caracteres: <br> '[', '{', '(', ')', '}', ']' <br> e retorne se a sequência é uma sequêcia válida ou não 
+
+#### Exemplo:
+- { [ ( ) ( ) { } [ ] ] { } } é uma sequência válida
+- { [ ( ( ) ] } não é uma sequência válida
+- { } [ ] ( ) é uma sequência válida
+- ( ( ) { } [ [ ] ) não é uma sequência válida
+
+Dica: Os espaços nos exemplos são apenas para favorecer a leitura. Espaços não farão parte das strings de teste
 
 ## Questão 4
 ### Considere um conjuto de pessoas aposentadas, onde cada pessoa começou a trabalhar em ano X e aposentou em ano Y. Crie uma função que receba uma matriz na seguinte estrutura: <br> [[x1,y1],[x2,y2],...[xn,yn]] <br>e calcule em qual ano houve mais gente trabalhando
