@@ -6,12 +6,14 @@ Se possível, documente o código com comentários
 ## Questão 1
 ### Dado um valor inteiro, verifique se os números estão em ordenação sequencial
 
+## Questão 2
 ### Crie uma função que receba um array de inteiros como parâmetro e verifique se neste array existem números duplicados, caso exista, retorne um novo array com os valores que se repetem 
 
 #### Exemplo
 - Input [4,5,44,98,4,5,6,7]
 - Output [4,5]
 
+##Questão 3
 ### Considere um conjuto de pessoas aposentadas, onde cada pessoa começou a trabalhar em ano X e aposentou em ano Y. Crie uma função que receba uma matriz na seguinte estrutura:
 ### [[x1,y1],[x2,y2],...[xn,yn]] e calcule em qual ano houve mais gente trabalhando
 
