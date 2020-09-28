@@ -10,7 +10,7 @@ Dê um fork neste repositório, e após concluir as atividades faça um pull req
 
 #### Exemplo
 - 1234567 e 87654321 estão ordenados.
-- 1573154 não está ordenado.
+- 1573154 e 4567891011 não estão ordenados.
 
 ## Questão 2
 ### Crie uma função que receba um array de inteiros como parâmetro e verifique se neste array existem números duplicados, caso exista, retorne um novo array com os valores que se repetem 
