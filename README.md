@@ -7,7 +7,7 @@ Se possível, documente o código com comentários
 Dê um fork neste repositório, e após concluir as atividades faça um pull request
 
 ## Questão 1
-### Dado um valor inteiro, verifique se os dígitos estão em ordenação sequencial
+### Dado um valor inteiro positivo, verifique se os dígitos estão em ordenação sequencial
 
 #### Exemplo
 - 1234567 e 87654321 estão ordenados.
