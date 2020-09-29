@@ -32,7 +32,7 @@ Dê um fork neste repositório, e após concluir as atividades faça um pull req
 Dica: Os espaços nos exemplos são apenas para favorecer a leitura. Espaços não farão parte das strings de teste
 
 ## Questão 4
-### Considere um conjuto de pessoas aposentadas, onde cada pessoa começou a trabalhar em ano X e aposentou em ano Y. Crie uma função que receba uma matriz na seguinte estrutura: <br> [[x1,y1],[x2,y2],...[xn,yn]] <br>e calcule em qual ano houve mais gente trabalhando
+### Considere um conjuto de pessoas aposentadas, onde cada pessoa começou a trabalhar em ano X e aposentou em ano Y. Crie uma função que receba uma matriz na seguinte estrutura: <br> [[x1,y1],[x2,y2],...[xn,yn]] <br>e calcule em qual/quais ano/anos houve mais gente trabalhando
 
 Considere:
 - Os valores de X como o ano que os indívíduos começaram a trabalhar (x>0, x<y )
