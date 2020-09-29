@@ -10,7 +10,7 @@ Dentro do repositório existem cinco arquivos já nomeados para você realizar o
 
 ***1 - Dado um valor inteiro positivo, verifique se os dígitos estão em ordenação sequencial.***
 
-> Exemplo:
+> Exemplo:<br/>
 > `1234567` e `87654321` estão ordenados. <br/>
 > `1573154` e `4567891011` não estão ordenados.
 
@@ -20,11 +20,11 @@ Dentro do repositório existem cinco arquivos já nomeados para você realizar o
 > Input `[4,5,44,98,4,5,6,7]` &rarr; Output `[4,5]`
 
 ***3 - Crie uma função que recebe uma string com qualquer sequência dos seguintes caracteres*** `[', '{', '(', ')', '}', ']'` ***e retorne se a sequência é uma sequêcia válida ou não.***
-Exemplo:
-`{ [ ( ) ( ) { } [ ] ] { } }` é uma sequência válida
-`{ [ ( ( ) ] }` não é uma sequência válida
-`{ } [ ] ( )` é uma sequência válida
-`( ( ) { } [ [ ] )` não é uma sequência válida
+> Exemplo:<br/>
+> `{ [ ( ) ( ) { } [ ] ] { } }` é uma sequência válida<br/>
+> `{ [ ( ( ) ] }` não é uma sequência válida<br/>
+> `{ } [ ] ( )` é uma sequência válida<br/>
+> `( ( ) { } [ [ ] )` não é uma sequência válida
 
 > Dica: Os espaços nos exemplos são apenas para favorecer a leitura.<br/>
 > Espaços não farão parte das strings de teste
