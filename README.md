@@ -26,8 +26,8 @@ Dentro do repositório existem cinco arquivos já nomeados para você realizar o
 > `{ } [ ] ( )` é uma sequência válida<br/>
 > `( ( ) { } [ [ ] )` não é uma sequência válida
 
-> Dica: Os espaços nos exemplos são apenas para favorecer a leitura.<br/>
-> Espaços não farão parte das strings de teste
+Dica: Os espaços nos exemplos são apenas para favorecer a leitura.<br/>
+Espaços não farão parte das strings de teste
 
 ***4 - Considere um conjunto de pessoas aposentadas, onde cada pessoa começou a trabalhar em ano X e aposentou em ano Y. Crie uma função que receba uma matriz na seguinte estrutura*** `[[x1,y1],[x2,y2],...[xn,yn]]` ***e calcule em qual/quais ano/anos houve mais pessoas trabalhando.***
 
