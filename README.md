@@ -44,4 +44,4 @@ Considere:
 - Input [[1960,2005],[1945,2008],[1938,1999],...]
 
 ## Questão 5
-### Um grupo de x amigos serão colocados lado a lado para tirar uma foto. De quantos modos distintos os X amigos podem se organizar para tirar a foto? Desenvolva uma função para que o fotografo saiba o número de modos distintos que essas e outros grupos possam se organizar
+### Um grupo de amigos serão colocados lado a lado para tirar uma foto. De quantos modos distintos os amigos podem se organizar para tirar a foto? Desenvolva uma função para que o fotografo saiba o número de modos distintos que esse grupo e outros grupos possam se organizar
