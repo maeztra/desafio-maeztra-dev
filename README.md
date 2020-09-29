@@ -11,7 +11,7 @@ Dentro do repositório existem cinco arquivos já nomeados para você realizar o
 ***1 - Dado um valor inteiro positivo, verifique se os dígitos estão em ordenação sequencial.***
 
 > Exemplo:
-> `1234567` e `87654321` estão ordenados. `1573154` e
+> `1234567` e `87654321` estão ordenados. `1573154` e<br/>
 > `4567891011` não estão ordenados.
 
 ***2 - Crie uma função que receba um array de inteiros como parâmetro e verifique se neste array existem números duplicados, caso exista, retorne um novo array com os valores que se repetem.***
