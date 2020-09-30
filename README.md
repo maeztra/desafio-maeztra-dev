@@ -1,47 +1,57 @@
+
 # Desafio Maeztra
-Testes de avaliação inicial em lógica de programação <br>
-Os códigos devem ser feitos em Javascript/JQuery<br>
-Envie os códigos nos arquivos correspondentes<br>
-Se possível, documente o código com comentários
+Olá candidato,
+Este teste se divide em duas etapas, a primeira etapa é um teste lógico onde iremos analisar a sua forma de pensar e como você lida com problemas abstratos. Os códigos dessa etapa devem ser feitos em Javascript e não se esqueça de documentar todo o processo de cada resposta.
 
-Dê um fork neste repositório, e após concluir as atividades faça um pull request
+Para iniciar o teste você deve fazer um fork deste repositório e assim no final do prazo de dois dias deve realizar um pull request para que nós possamos avaliar e assim realizar a devolutiva para você.
 
-## Questão 1
-### Dado um valor inteiro positivo, verifique se os dígitos estão em ordenação sequencial
+## Teste lógico
+Dentro do repositório existem cinco arquivos já nomeados para você realizar os seus algoritmos.
 
-#### Exemplo
-- 1234567 e 87654321 estão ordenados.
-- 1573154 e 4567891011 não estão ordenados.
+***1 - Dado um valor inteiro positivo, verifique se os dígitos estão em ordenação sequencial.***
 
-## Questão 2
-### Crie uma função que receba um array de inteiros como parâmetro e verifique se neste array existem números duplicados, caso exista, retorne um novo array com os valores que se repetem
+> Exemplo:<br/>
+> `1234567` e `87654321` estão ordenados. <br/>
+> `1573154` e `4567891011` não estão ordenados.
 
-#### Exemplo
-- Input [4,5,44,98,4,5,6,7]
-- Output [4,5]
+***2 - Crie uma função que receba um array de inteiros como parâmetro e verifique se neste array existem números duplicados, caso exista, retorne um novo array com os valores que se repetem.***
 
-## Questão 3
-### Crie uma função que recebe uma string com qualquer sequência dos seguintes caracteres: <br> '[', '{', '(', ')', '}', ']' <br> e retorne se a sequência é uma sequêcia válida ou não
+> Exemplo:<br/>
+> Input `[4,5,44,98,4,5,6,7]` &rarr; Output `[4,5]`
 
-#### Exemplo:
-- { [ ( ) ( ) { } [ ] ] { } } é uma sequência válida
-- { [ ( ( ) ] } não é uma sequência válida
-- { } [ ] ( ) é uma sequência válida
-- ( ( ) { } [ [ ] ) não é uma sequência válida
+***3 - Crie uma função que recebe uma string com qualquer sequência dos seguintes caracteres*** `[', '{', '(', ')', '}', ']'` ***e retorne se a sequência é uma sequêcia válida ou não.***
+> Exemplo:<br/>
+> `{ [ ( ) ( ) { } [ ] ] { } }` é uma sequência válida<br/>
+> `{ [ ( ( ) ] }` não é uma sequência válida<br/>
+> `{ } [ ] ( )` é uma sequência válida<br/>
+> `( ( ) { } [ [ ] )` não é uma sequência válida
 
-Dica: Os espaços nos exemplos são apenas para favorecer a leitura. Espaços não farão parte das strings de teste
+Dica: Os espaços nos exemplos são apenas para favorecer a leitura.<br/>
+Espaços não farão parte das strings de teste
 
-## Questão 4
-### Considere um conjunto de pessoas aposentadas, onde cada pessoa começou a trabalhar em ano X e aposentou em ano Y. Crie uma função que receba uma matriz na seguinte estrutura: <br> [[x1,y1],[x2,y2],...[xn,yn]] <br>e calcule em qual/quais ano/anos houve mais pessoas trabalhando
+***4 - Considere um conjunto de pessoas aposentadas, onde cada pessoa começou a trabalhar em ano X e aposentou em ano Y. Crie uma função que receba uma matriz na seguinte estrutura*** `[[x1,y1],[x2,y2],...[xn,yn]]` ***e calcule em qual/quais ano/anos houve mais pessoas trabalhando.***
 
-Considere:
-- Os valores de X como o ano que os indívíduos começaram a trabalhar (x>0, x<y )
-- Os valores de Y como o ano que os indívíduos se aposentaram (y>0)
-- O ano de início deve ser considerado como ano trabalhado
-- O ano de aposentadoria deve ser considerado como ano trabalhado
+*Considere:*
+- Os valores de X como o ano que os indívíduos começaram a trabalhar (x>0, x<y );
+- Os valores de Y como o ano que os indívíduos se aposentaram (y>0);
+- O ano de início deve ser considerado como ano trabalhado;
+- O ano de aposentadoria deve ser considerado como ano trabalhado.
 
-#### Exemplo:
-- Input [[1960,2005],[1945,2008],[1938,1999],...]
+> Exemplo:<br/>
+> Input `[[1960,2005],[1945,2008],[1938,1999],...]`
 
-## Questão 5
-### Um grupo de amigos serão colocados lado a lado para tirar uma foto. De quantos modos distintos os amigos podem se organizar para tirar a foto? Desenvolva uma função que receba um número de pessoas (valor inteiro) e retorne quantas possibilidades de organização existem para que o fotografo saiba o número de modos distintos que esse grupo e outros grupos possam se organizar.
+***5 - Um grupo de amigos serão colocados lado a lado para tirar uma foto. De quantos modos distintos os amigos podem se organizar para tirar a foto? Desenvolva uma função que receba um número de pessoas (valor inteiro) e retorne quantas possibilidades de organização existem para que o fotografo saiba o número de modos distintos que esse grupo e outros grupos possam se organizar.***
+
+## Layout
+Essa é a segunda etapa do teste onde iremos analisar o ~~seu perfeccionismo~~ perfect pixel e de como você constrói os seus layouts.
+
+Requisitos:
+- O layout que você vai utilizar é este: [Layout Figma](https://www.figma.com/file/3RqPfS5PW9whbQNCTTaoqA/%5B2020-09%5D-MZ---Layout-Teste-de-vagas-para-time-de-Devs);
+- Você pode utilizar qualquer framework ou library que você preferir;
+- A sua página deve ser hospedada no [Github Pages](https://pages.github.com/) e o link deve ser enviado no pull request;
+- Estruture os seus arquivos em uma pasta chamada **layout** e se possível crie um *README*.
+
+## Dúvidas
+Caso você tenha alguma dúvida sobre os exercícios ou o layout, você pode abrir uma issue e nós responderemos por lá.
+
+Boa sorte!
