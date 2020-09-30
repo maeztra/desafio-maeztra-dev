@@ -51,4 +51,7 @@ Requisitos:
 - A sua página deve ser hospedada no [Github Pages](https://pages.github.com/) e o link deve ser enviado no pull request;
 - Estruture os seus arquivos em uma pasta chamada **layout** e se possível crie um *README*.
 
+## Dúvidas
+Caso você tenha alguma dúvida sobre os exercícios ou o layout, você pode abrir uma issue e nós responderemos por lá.
+
 Boa sorte!
