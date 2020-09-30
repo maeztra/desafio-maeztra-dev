@@ -3,7 +3,7 @@
 Olá candidato,
 Este teste se divide em duas etapas, a primeira etapa é um teste lógico onde iremos analisar a sua forma de pensar e como você lida com problemas abstratos. Os códigos dessa etapa devem ser feitos em Javascript e não se esqueça de documentar todo o processo de cada resposta.
 
-Para iniciar o teste você pode clonar o repositório, e no prazo de dois dias enviar os arquivos em formato .rar/.zip para o email selecao@maeztra.com com o assunto Processo Seletivo Maeztra, assim como o link para o github pages (mais informações na seção layout)
+Para iniciar o teste você pode clonar o repositório, e no prazo de dois dias enviar os arquivos em formato .rar/.zip para o email selecao@maeztra.com com o assunto Processo Seletivo Maeztra, assim como o link para o github pages (mais informações na seção layout).
 
 Para iniciar o teste você deve fazer um fork deste repositório e assim no final do prazo de dois dias deve realizar um pull request para que nós possamos avaliar e assim realizar a devolutiva para você.
 
