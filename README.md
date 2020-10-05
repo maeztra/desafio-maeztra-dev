@@ -8,7 +8,7 @@ Para iniciar o teste você pode clonar o repositório, e no prazo de dois dias e
 ## Teste lógico
 Dentro do repositório existem cinco arquivos já nomeados para você realizar os seus algoritmos.
 
-***1 - Crie uma função que receba um valor INTEIRO positivo, e verifique se os DÍGITOS estão em ordenação sequencial CRESCENTE ou DECRESCENTE. Pode considerar dígitos iguais como sequenciais (Variação de um dígito para o outro é 1 ou 0)***
+***1 - Crie uma função que receba um valor INTEIRO positivo, e verifique se os DÍGITOS estão em ordenação sequencial CRESCENTE ou DECRESCENTE. Pode considerar dígitos iguais como sequenciais (Variação de um dígito para o outro deve ser 1 ou menor)***
 
 > Exemplo:<br/>
 > Input 12345678 -> Está ordenado <br/>
