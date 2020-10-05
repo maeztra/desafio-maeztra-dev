@@ -8,23 +8,34 @@ Para iniciar o teste você pode clonar o repositório, e no prazo de dois dias e
 ## Teste lógico
 Dentro do repositório existem cinco arquivos já nomeados para você realizar os seus algoritmos.
 
-***1 - Dado um valor inteiro positivo, verifique se os dígitos estão em ordenação sequencial.***
+***1 - Crie uma função que receba um valor INTEIRO positivo, e verifique se os DÍGITOS estão em ordenação sequencial CRESCENTE ou DECRESCENTE. Pode considerar dígitos iguais como sequenciais (Variação de um dígito para o outro é 1 ou 0)***
 
 > Exemplo:<br/>
-> `1234567` e `87654321` estão ordenados. <br/>
-> `1573154` e `4567891011` não estão ordenados.
+> Input 12345678 -> Está ordenado <br/>
+> Input 1223455678 -> Está ordenado <br/>
+> Input 876543210 -> Está ordenado <br/>
+> Input 152456457 -> Não está ordenado <br/>
+> Input 12356789 -> Não está ordenado <br/>
+> Input 13579 -> Não está ordenado <br/>
+> Input 9765421 -> Não está ordenado <br/>
+> Input 123454321 -> Não está ordenado <br/>
+> Input 12222222 -> Está ordenado <br/>
+> Input 2111111 -> Está ordenado <br/>
+> Input 1599 -> Não está ordenado
+
+
 
 ***2 - Crie uma função que receba um array de inteiros como parâmetro e verifique se neste array existem números duplicados, caso exista, retorne um novo array com os valores que se repetem.***
 
 > Exemplo:<br/>
 > Input `[4,5,44,98,4,5,6,7]` &rarr; Output `[4,5]`
 
-***3 - Crie uma função que recebe uma string com qualquer sequência dos seguintes caracteres*** `[', '{', '(', ')', '}', ']'` ***e retorne se a sequência é uma sequêcia válida ou não.***
+***3 - Crie uma função que recebe uma string com qualquer sequência dos seguintes caracteres*** `'[', '{', '(', ')', '}', ']'` ***e retorne se a sequência é uma sequência válida ou não. Uma sequência é válida se as chaves, parênteses e colchetes abrem e fecham corretamente***
 > Exemplo:<br/>
 > `{ [ ( ) ( ) { } [ ] ] { } }` é uma sequência válida<br/>
-> `{ [ ( ( ) ] }` não é uma sequência válida<br/>
+> `{ [ ( ( ) ] }` não é uma sequência válida (Há um parêntese posicionado incorretamente)<br/>
 > `{ } [ ] ( )` é uma sequência válida<br/>
-> `( ( ) { } [ [ ] )` não é uma sequência válida
+> `( ( ) { } [ [ ] )` não é uma sequência válida (Há uma chave posicionado incorretamente)
 
 Dica: Os espaços nos exemplos são apenas para favorecer a leitura.<br/>
 Espaços não farão parte das strings de teste
@@ -40,7 +51,7 @@ Espaços não farão parte das strings de teste
 > Exemplo:<br/>
 > Input `[[1960,2005],[1945,2008],[1938,1999],...]`
 
-***5 - Um grupo de amigos serão colocados lado a lado para tirar uma foto. De quantos modos distintos os amigos podem se organizar para tirar a foto? Desenvolva uma função que receba um número de pessoas (valor inteiro) e retorne quantas possibilidades de organização existem para que o fotografo saiba o número de modos distintos que esse grupo e outros grupos possam se organizar.***
+***5 - Um grupo de amigos será colocado lado a lado para tirar uma foto. De quantos modos distintos os amigos podem se organizar para tirar a foto? Desenvolva uma função que receba um número de pessoas (valor inteiro) e retorne quantas possibilidades de organização existem para que o fotografo saiba o número de modos distintos que esse grupo e outros grupos possam se organizar.***
 
 ## Layout
 Essa é a segunda etapa do teste onde iremos analisar o ~~seu perfeccionismo~~ perfect pixel e de como você constrói os seus layouts.
