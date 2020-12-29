@@ -3,7 +3,7 @@
 Olá candidato,
 Este teste se divide em duas etapas, a primeira é um teste lógico onde iremos analisar a sua forma de pensar e como você lida com problemas abstratos. Os códigos dessa etapa devem ser feitos em Javascript, e não se esqueça de documentar todo o processo de cada resposta.
 
-Para iniciar o teste você pode clonar o repositório, e no prazo de dois dias enviar os arquivos em formato .rar/.zip para o email selecao@maeztra.com com o assunto **Processo Seletivo Maeztra**, assim como o link para o github pages (mais informações no tópico layout).
+Para iniciar o teste você pode clonar o repositório, e no prazo de dois dias enviar os arquivos em formato .rar/.zip (pode hospedar na nuvem e enviar o link, enviar por anexo etc) para o email selecao@maeztra.com com o assunto **Processo Seletivo Maeztra**, assim como o link para o github pages (mais informações no tópico layout).
 
 ## Teste lógico
 Dentro do repositório existem cinco arquivos já nomeados para você realizar os seus algoritmos.
@@ -36,6 +36,7 @@ Dentro do repositório existem cinco arquivos já nomeados para você realizar o
 > `{ [ ( ( ) ] }` não é uma sequência válida (Há um parêntese posicionado incorretamente)<br/>
 > `{ } [ ] ( )` é uma sequência válida<br/>
 > `( ( ) { } [ [ ] )` não é uma sequência válida (Há uma chave posicionado incorretamente)
+> `[ { } ( [ ) ] ]` não é uma sequência válida (O número de caracteres está correto, mas o posicionamento de uma chave/parêntese está incorreto)
 
 Dica: Os espaços nos exemplos são apenas para favorecer a leitura.<br/>
 Espaços não farão parte das strings de teste
