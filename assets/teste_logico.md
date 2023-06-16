@@ -14,12 +14,10 @@ Boa sorte!
 
 <div align="center">
   <hr />
-  <a href="/assets/teste_logico.md" target="_blank">Testes Lógicos</a>
+  <a href="/assets/tests/junior.md" target="_blank">Júnior</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="/assets/layout.md" target="_blank">2º Etapa: Layout</a>
+  <a href="/assets/tests/pleno.md" target="_blank">Pleno</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="/assets/duvidas.md" target="_blank">Dúvidas</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="/profile/cleancode/index.md" target="_blank">Clean Code</a>
+  <a href="/assets/tests/senior.md" target="_blank">Sênior</a>
   <hr />
 </div>
