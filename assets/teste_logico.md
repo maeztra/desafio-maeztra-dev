@@ -13,11 +13,11 @@ Desejamos a você muito sucesso nesta etapa do processo seletivo. Caso tenha alg
 Boa sorte!
 
 <div align="center">
-  <hr />
-  <a href="/assets/tests/junior.md" target="_blank">Júnior</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="/assets/tests/pleno.md" target="_blank">Pleno</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="/assets/tests/senior.md" target="_blank">Sênior</a>
-  <hr />
+    <hr />
+    <a href="/assets/tests/junior.md" target="_blank">Júnior</a>
+    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+    <a href="/assets/tests/pleno.md" target="_blank">Pleno</a>
+    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+    <a href="/assets/tests/senior.md" target="_blank">Sênior</a>
+    <hr />
 </div>
