@@ -2,10 +2,6 @@
     <img src="https://maeztra.com/wp-content/uploads/2023/05/mz-wordpress-300x300.png" alt="StoreIO BoilerPlate">
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/static/v1?label=PRs&message=São%20Bem%20Vindos&style=flat-square&color=0090FF&labelColor=000000" alt="PRs welcome!" />
-</p>
-
 ---
 
 Olá, candidato!
