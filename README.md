@@ -16,13 +16,13 @@ Estamos ansiosos para receber suas respostas. Boa sorte!
 
 ---
 
-<center>
+<div align="center">
     <a href="/assets/teste_logico.md" target="_blank">Testes Lógicos</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
     <a href="/assets/layout.md" target="_blank">2º Etapa: Layout</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
     <a href="/assets/duvidas.md" target="_blank">Dúvidas</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-    <a href="/profile/cleancode/index.md" target="_blank">Clean Code</a>
+    <a href="/assets/cleancode.md" target="_blank">Clean Code</a>
     <hr />
-</center>
+</div>
